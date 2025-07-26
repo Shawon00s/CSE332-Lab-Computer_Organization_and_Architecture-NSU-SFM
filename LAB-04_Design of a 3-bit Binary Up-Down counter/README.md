@@ -114,3 +114,9 @@ The simulation confirms the correct behavior of the counter for both UP and DOWN
 The design and simulation of a **3-bit binary up-down counter** was successfully completed using JK flip-flops. The circuit responded correctly to the control input, demonstrating proper up-counting and down-counting sequences. This experiment solidified understanding of sequential logic and flip-flop excitation.
 
 ---
+
+## 🔗 Circuit Diagram
+
+<img src="PNGs/LAB-04_Design of a 3-bit Binary Up-Down counter.png">
+
+---
