@@ -66,12 +66,6 @@ The original lab manual describes the design process for a **4-bit binary up-dow
 
 ---
 
-## 🔗 Circuit Diagram
-
-<img src="PNGs/LAB-04_Design of a 3-bit Binary Up-Down counter.png">
-
----
-
 ## 🧪 Simulation Result
 
 The simulation confirms the correct behavior of the counter for both UP and DOWN modes. The output sequence matches the expected binary count, and toggling the control input successfully changes the counting direction.
