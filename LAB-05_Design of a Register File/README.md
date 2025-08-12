@@ -66,11 +66,9 @@ The simulation confirmed that the register file correctly handled:
 <details>
 <summary>Click to view images from the Lab Manual</summary>
 
-![Manual 1](PNGs/LAB_Manual-05_Design of a Register File-1.png)  
-![Manual 2](PNGs/LAB_Manual-05_Design of a Register File-2.png)  
-![Manual 3](PNGs/LAB_Manual-05_Design of a Register File-3.png)  
-![Manual 4](PNGs/LAB_Manual-05_Design of a Register File-4.png)  
-![Manual 5](PNGs/LAB_Manual-05_Design of a Register File-5.png)  
+<img src="PNGs/LAB_Manual_05- Design of a Register File -1.png">
+<img src="PNGs/LAB_Manual_05- Design of a Register File -2.png">
+<img src="PNGs/LAB_Manual_05- Design of a Register File -3.png">
 
 </details>
 
@@ -81,11 +79,10 @@ The simulation confirmed that the register file correctly handled:
 <details>
 <summary>Click to view handwritten lab report scans</summary>
 
-![Report 1](PNGs/LAB_Report_05-Design of a Register File-1.png)  
-![Report 2](PNGs/LAB_Report_05-Design of a Register File-2.png)  
-![Report 3](PNGs/LAB_Report_05-Design of a Register File-3.png)  
-![Report 4](PNGs/LAB_Report_05-Design of a Register File-4.png)  
-![Report 5](PNGs/LAB_Report_05-Design of a Register File-5.png)  
+<img src="PNGs/LAB_Report-05_Design of a Register File-1.png">
+<img src="PNGs/LAB_Report-05_Design of a Register File-2.png">
+<img src="PNGs/LAB_Report-05_Design of a Register File-3.png">
+<img src="PNGs/LAB_Report-05_Design of a Register File-4.png">
 
 </details>
 
