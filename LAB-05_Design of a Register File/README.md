@@ -48,7 +48,7 @@ The lab manual describes the design of a register file, covering:
 
 ## 🖥️ Circuit Diagram
 
-![Register File Circuit](PNGs/LAB-05_Design of a Register File.png)
+<img src="PNGs/LAB_05- Design of a Register File.png">
 
 ---
 
