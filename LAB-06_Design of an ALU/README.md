@@ -92,11 +92,9 @@ The simulation confirmed:
 <details>
 <summary>Click to view images from the Lab Manual</summary>
 
-<img src="PNGs/LAB_Manual-06_Design of an ALU-1.png" />  
-<img src="PNGs/LAB_Manual-06_Design of an ALU-2.png" />  
-<img src="PNGs/LAB_Manual-06_Design of an ALU-3.png" />  
-<img src="PNGs/LAB_Manual-06_Design of an ALU-4.png" />  
-<img src="PNGs/LAB_Manual-06_Design of an ALU-5.png" />  
+<img src="PNGs/LAB_Manual_06 - Design of an ALU -1.png" />  
+<img src="PNGs/LAB_Manual_06 - Design of an ALU -2.png" />  
+<img src="PNGs/LAB_Manual_06 - Design of an ALU -3.png" />  
 
 </details>
 
@@ -109,9 +107,7 @@ The simulation confirmed:
 
 <img src="PNGs/LAB_Report_06-Design of an ALU-1.png" />  
 <img src="PNGs/LAB_Report_06-Design of an ALU-2.png" />  
-<img src="PNGs/LAB_Report_06-Design of an ALU-3.png" />  
-<img src="PNGs/LAB_Report_06-Design of an ALU-4.png" />  
-<img src="PNGs/LAB_Report_06-Design of an ALU-5.png" />  
+<img src="PNGs/LAB_Report_06-Design of an ALU-3.png" />
 
 </details>
 
