@@ -74,7 +74,11 @@ The lab manual covers:
 
 ## 🖥️ Circuit Diagram
 
-<img src="PNGs/LAB-06_Design of an ALU.png" />
+### 1 bit ALU  →
+<img src="PNGs/LAB-06_Design of an ALU - 1 bit ALU.png" />
+
+### 16 bit ALU  →
+<img src="PNGs/LAB-06_Design of an ALU - 16 bit ALU.png" />
 
 ---
 
