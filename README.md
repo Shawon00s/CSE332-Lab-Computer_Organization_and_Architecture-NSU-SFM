@@ -123,30 +123,149 @@ This repository contains **7 comprehensive laboratory experiments**, each with d
 
 ```
 CSE332-Lab-Computer_Organization_and_Architecture-NSU-SFM/
-├── README.md                                          # This file
+├── README.md                                                                # Main repository documentation
 ├── LAB-01_Design of a 2-bit Logic unit/
-│   ├── README.md                                      # Detailed lab report
-│   ├── LAB-01_Design of a 2-bit Logic unit.circ       # Logisim circuit file
-│   ├── LAB_Manual-01_Design of a 2-bit Logic unit.pdf # Official lab manual
-│   ├── LAB_Report_01-Design of a 2-bit Logic unit.pdf # Student lab report
-│   └── PNGs/                                          # Screenshots and diagrams
+│   ├── PNGs/                                                                # Circuit diagrams and documentation images
+│   │   ├── LAB-01_Design of a 2-bit Logic unit.png                         # Main circuit diagram
+│   │   ├── LAB_Manual-01_Design of a 2-bit Logic unit-1.png                # Lab manual page 1
+│   │   ├── LAB_Manual-01_Design of a 2-bit Logic unit-2.png                # Lab manual page 2
+│   │   ├── LAB_Manual-01_Design of a 2-bit Logic unit-3.png                # Lab manual page 3
+│   │   ├── LAB_Manual-01_Design of a 2-bit Logic unit-4.png                # Lab manual page 4
+│   │   ├── LAB_Manual-01_Design of a 2-bit Logic unit-5.png                # Lab manual page 5
+│   │   ├── LAB_Report_01-Design of a 2-bit Logic unit-1.png                # Student report page 1
+│   │   ├── LAB_Report_01-Design of a 2-bit Logic unit-2.png                # Student report page 2
+│   │   ├── LAB_Report_01-Design of a 2-bit Logic unit-3.png                # Student report page 3
+│   │   ├── LAB_Report_01-Design of a 2-bit Logic unit-4.png                # Student report page 4
+│   │   └── LAB_Report_01-Design of a 2-bit Logic unit-5.png                # Student report page 5
+│   ├── LAB-01_Design of a 2-bit Logic unit.circ                            # Logisim circuit implementation
+│   ├── LAB_Manual-01_Design of a 2-bit Logic unit.pdf                      # Official lab manual
+│   ├── LAB_Report_01-Design of a 2-bit Logic unit.pdf                      # Student lab report
+│   └── README.md                                                            # Detailed lab documentation
 ├── LAB-02_Design of a 2-bit Arithmetic unit/
-│   ├── README.md
-│   ├── LAB-02_Design of a 2-bit Arithmetic unit.circ
-│   ├── LAB_Manual-02_Design of a 2-bit Arithmetic unit.pdf
-│   └── PNGs/
+│   ├── PNGs/                                                                # Circuit diagrams and documentation images
+│   │   ├── LAB-02_Design of a 2-bit Arithmetic unit.png                    # Main circuit diagram
+│   │   ├── LAB_Manual-02_Design of a 2-bit Arithmetic unit-1.png           # Lab manual page 1
+│   │   ├── LAB_Manual-02_Design of a 2-bit Arithmetic unit-2.png           # Lab manual page 2
+│   │   └── LAB_Manual-02_Design of a 2-bit Arithmetic unit-3.png           # Lab manual page 3
+│   ├── LAB-02_Design of a 2-bit Arithmetic unit.circ                       # Logisim circuit implementation
+│   ├── LAB_Manual-02_Design of a 2-bit Arithmetic unit.pdf                 # Official lab manual
+│   └── README.md                                                            # Detailed lab documentation
 ├── LAB-03_Design a 3-bit by 3-bit Binary Multiplication Unit/
+│   ├── PNGs/                                                                # Circuit diagrams and documentation images
+│   │   ├── LAB-03_Design a 3-bit by 3-bit Binary Multiplication Unit.png   # Main circuit diagram
+│   │   ├── LAB_Manual-03_Design a 4-bit by 4-bit Binary Multiplication Unit-1.png  # Lab manual page 1
+│   │   ├── LAB_Manual-03_Design a 4-bit by 4-bit Binary Multiplication Unit-2.png  # Lab manual page 2
+│   │   ├── LAB_Manual-03_Design a 4-bit by 4-bit Binary Multiplication Unit-3.png  # Lab manual page 3
+│   │   ├── LAB_Manual-03_Design a 4-bit by 4-bit Binary Multiplication Unit-4.png  # Lab manual page 4
+│   │   ├── LAB_Manual-03_Design a 4-bit by 4-bit Binary Multiplication Unit-5.png  # Lab manual page 5
+│   │   ├── LAB_Report_03-Design a 3-bit by 3-bit Binary Multiplication Unit-1.png  # Student report page 1
+│   │   ├── LAB_Report_03-Design a 3-bit by 3-bit Binary Multiplication Unit-2.png  # Student report page 2
+│   │   ├── LAB_Report_03-Design a 3-bit by 3-bit Binary Multiplication Unit-3.png  # Student report page 3
+│   │   ├── LAB_Report_03-Design a 3-bit by 3-bit Binary Multiplication Unit-4.png  # Student report page 4
+│   │   └── LAB_Report_03-Design a 3-bit by 3-bit Binary Multiplication Unit-5.png  # Student report page 5
+│   ├── LAB-03_Design a 3-bit by 3-bit Binary Multiplication Unit.circ       # Logisim circuit implementation
+│   ├── LAB_Manual-03_Design a 4-bit by 4-bit Binary Multiplication Unit.pdf # Official lab manual (4-bit reference)
+│   ├── LAB_Report_03-Design a 3-bit by 3-bit Binary Multiplication Unit.pdf # Student lab report
+│   └── README.md                                                            # Detailed lab documentation
 ├── LAB-04_Design of a 3-bit Binary Up-Down counter/
+│   ├── PNGs/                                                                # Circuit diagrams and documentation images
+│   │   ├── LAB-04_Design of a 3-bit Binary Up-Down counter.png              # Main circuit diagram
+│   │   ├── LAB_Manual-04_Design of a 4-bit Binary Up-Down counter-1.png     # Lab manual page 1
+│   │   ├── LAB_Manual-04_Design of a 4-bit Binary Up-Down counter-2.png     # Lab manual page 2
+│   │   ├── LAB_Manual-04_Design of a 4-bit Binary Up-Down counter-3.png     # Lab manual page 3
+│   │   ├── LAB_Manual-04_Design of a 4-bit Binary Up-Down counter-4.png     # Lab manual page 4
+│   │   ├── LAB_Manual-04_Design of a 4-bit Binary Up-Down counter-5.png     # Lab manual page 5
+│   │   ├── LAB_Manual-04_Design of a 4-bit Binary Up-Down counter-6.png     # Lab manual page 6
+│   │   ├── LAB_Report_04-Design of a 3-bit Binary Up-Down counter-1.png     # Student report page 1
+│   │   ├── LAB_Report_04-Design of a 3-bit Binary Up-Down counter-2.png     # Student report page 2
+│   │   ├── LAB_Report_04-Design of a 3-bit Binary Up-Down counter-3.png     # Student report page 3
+│   │   ├── LAB_Report_04-Design of a 3-bit Binary Up-Down counter-4.png     # Student report page 4
+│   │   ├── LAB_Report_04-Design of a 3-bit Binary Up-Down counter-5.png     # Student report page 5
+│   │   └── LAB_Report_04-Design of a 3-bit Binary Up-Down counter-6.png     # Student report page 6
+│   ├── LAB-04_Design of a 3-bit Binary Up-Down counter.circ                 # Logisim circuit implementation
+│   ├── LAB_Manual-04_Design of a 4-bit Binary Up-Down counter.pdf           # Official lab manual (4-bit reference)
+│   ├── LAB_Report_04-Design of a 3-bit Binary Up-Down counter.pdf           # Student lab report
+│   └── README.md                                                            # Detailed lab documentation
 ├── LAB-05_Design of a Register File/
+│   ├── PNGs/                                                                # Circuit diagrams and documentation images
+│   │   ├── LAB-05_Design of a Register File.png                            # Main circuit diagram
+│   │   ├── LAB_Manual_05- Design of a Register File -1.png                 # Lab manual page 1
+│   │   ├── LAB_Manual_05- Design of a Register File -2.png                 # Lab manual page 2
+│   │   ├── LAB_Manual_05- Design of a Register File -3.png                 # Lab manual page 3
+│   │   ├── LAB_Report-05_Design of a Register File-1.png                   # Student report page 1
+│   │   ├── LAB_Report-05_Design of a Register File-2.png                   # Student report page 2
+│   │   ├── LAB_Report-05_Design of a Register File-3.png                   # Student report page 3
+│   │   └── LAB_Report-05_Design of a Register File-4.png                   # Student report page 4
+│   ├── LAB-05_Design of a Register File.circ                               # Logisim circuit implementation
+│   ├── LAB_Manual_05- Design of a Register File .pdf                       # Official lab manual
+│   ├── LAB_Report-05_Design of a Register File.pdf                         # Student lab report
+│   └── README.md                                                            # Detailed lab documentation
 ├── LAB-06_Design of an ALU/
+│   ├── PNGs/                                                                # Circuit diagrams and documentation images
+│   │   ├── LAB-06_Design of an ALU - 1 bit ALU.png                         # 1-bit ALU circuit diagram
+│   │   ├── LAB-06_Design of an ALU - 16 bit ALU.png                        # 16-bit ALU circuit diagram
+│   │   ├── LAB_Manual_06- Design of an ALU-1.png                           # Lab manual page 1
+│   │   ├── LAB_Manual_06- Design of an ALU-2.png                           # Lab manual page 2
+│   │   ├── LAB_Manual_06- Design of an ALU-3.png                           # Lab manual page 3
+│   │   ├── LAB_Report_06-Design of an ALU_page-1.jpg                       # Student report page 1
+│   │   ├── LAB_Report_06-Design of an ALU_page-2.jpg                       # Student report page 2
+│   │   ├── LAB_Report_06-Design of an ALU_page-3.jpg                       # Student report page 3
+│   │   └── LAB_Report_06-Design of an ALU_page-4.jpg                       # Student report page 4
+│   ├── LAB-06_Design of an ALU.circ                                        # Logisim circuit implementation
+│   ├── LAB_Manual_06 -  Design of an ALU .pdf                              # Official lab manual
+│   ├── LAB_Report_06-Design of an ALU.pdf                                  # Student lab report
+│   └── README.md                                                            # Detailed lab documentation
 └── LAB-07_Build a single cycle datapath/
+    ├── PNGs/                                                                # Circuit diagrams and documentation images
+    │   ├── LAB-07_Build a single cycle datapath - 16 bit ALU.png           # 16-bit ALU component
+    │   ├── LAB-07_Build a single cycle datapath - Instruction Fetch Unit.png # Instruction fetch unit
+    │   ├── LAB-07_Build a single cycle datapath - R-Type Datapath.png      # Complete R-type datapath
+    │   ├── LAB-07_Build a single cycle datapath - Register File.png        # Register file component
+    │   ├── LAB_Manual_07 - Build a single cycle datapath-1.png             # Lab manual page 1
+    │   ├── LAB_Manual_07 - Build a single cycle datapath-2.png             # Lab manual page 2
+    │   ├── LAB_Manual_07 - Build a single cycle datapath-3.png             # Lab manual page 3
+    │   ├── LAB_Report_07-Build a single cycle datapath-1.png               # Student report page 1
+    │   ├── LAB_Report_07-Build a single cycle datapath-2.png               # Student report page 2
+    │   └── LAB_Report_07-Build a single cycle datapath-3.png               # Student report page 3
+    ├── LAB-06_Design of an ALU.circ                                        # ALU component (reused from Lab 06)
+    ├── LAB-07_Build a single cycle datapath (R-type).circ                  # Main datapath implementation
+    ├── LAB_Manual_07 - Build a single cycle datapath.pdf                   # Official lab manual
+    ├── LAB_Report_07-Build a single cycle datapath.pdf                     # Student lab report
+    └── README.md                                                            # Detailed lab documentation
 ```
 
-**Each lab directory contains:**
-- 📄 **README.md** - Comprehensive lab report with objectives, design steps, and results
-- ⚙️ **.circ files** - Logisim circuit implementations
-- 📚 **PDF manuals** - Official lab instructions and student reports
-- 🖼️ **PNGs folder** - Circuit diagrams, simulation screenshots, and lab manual images
+### 📊 Repository Statistics
+- **Total Files:** 96 (including detailed tree file)
+- **Lab Directories:** 7
+- **README Files:** 8 (1 main + 7 lab-specific)
+- **Logisim Circuit Files (.circ):** 8
+- **PDF Documentation:** 13 (lab manuals and reports)
+- **Images (PNG/JPG):** 66 (circuit diagrams, manual pages, and report scans)
+
+> 📋 **For a complete file-by-file breakdown, see [REPOSITORY_TREE.md](REPOSITORY_TREE.md)**
+
+### 📂 Directory Structure Pattern
+
+**Each lab directory follows a consistent structure:**
+
+#### 📄 Core Files
+- **README.md** - Comprehensive lab report with objectives, design steps, results, and detailed explanations
+- **LAB-XX_[Lab Name].circ** - Primary Logisim circuit implementation file
+- **LAB_Manual-XX_[Lab Name].pdf** - Official lab instruction manual provided by the instructor
+- **LAB_Report_XX-[Lab Name].pdf** - Student-submitted lab report document
+
+#### 🖼️ PNGs Directory
+Each lab contains a `PNGs/` folder with organized visual documentation:
+- **Circuit Diagrams** - Main circuit implementation screenshots
+- **Lab Manual Pages** - Scanned/extracted pages from the official lab manual
+- **Lab Report Pages** - Scanned pages of handwritten student reports
+- **Component Diagrams** - Individual circuit component implementations (where applicable)
+
+#### 🔍 File Naming Conventions
+- **Circuit Files:** `LAB-XX_[Descriptive Name].circ`
+- **Manuals:** `LAB_Manual-XX_[Lab Name].pdf`
+- **Reports:** `LAB_Report_XX-[Lab Name].pdf`
+- **Images:** Descriptive names indicating content type and page numbers
 
 ---
 
