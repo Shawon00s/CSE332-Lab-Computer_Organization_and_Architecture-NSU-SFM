@@ -78,11 +78,9 @@ The simulation verified that the single-cycle datapath:
 <details>
 <summary>Click to view images from the Lab Manual</summary>
 
-<img src="PNGs/LAB_Manual-07_Build a single cycle datapath-1.png" />  
-<img src="PNGs/LAB_Manual-07_Build a single cycle datapath-2.png" />  
-<img src="PNGs/LAB_Manual-07_Build a single cycle datapath-3.png" />  
-<img src="PNGs/LAB_Manual-07_Build a single cycle datapath-4.png" />  
-<img src="PNGs/LAB_Manual-07_Build a single cycle datapath-5.png" />  
+<img src="PNGs/LAB_Manual_07 - Build a single cycle datapath-1.png" /> 
+<img src="PNGs/LAB_Manual_07 - Build a single cycle datapath-2.png" /> 
+<img src="PNGs/LAB_Manual_07 - Build a single cycle datapath-3.png" /> 
 
 </details>
 
@@ -93,11 +91,9 @@ The simulation verified that the single-cycle datapath:
 <details>
 <summary>Click to view handwritten lab report scans</summary>
 
-<img src="PNGs/LAB_Report_07-Build a single cycle datapath-1.png" />  
-<img src="PNGs/LAB_Report_07-Build a single cycle datapath-2.png" />  
-<img src="PNGs/LAB_Report_07-Build a single cycle datapath-3.png" />  
-<img src="PNGs/LAB_Report_07-Build a single cycle datapath-4.png" />  
-<img src="PNGs/LAB_Report_07-Build a single cycle datapath-5.png" />  
+<img src="PNGs/LAB_Report_07-Build a single cycle datapath-1.png" />
+<img src="PNGs/LAB_Report_07-Build a single cycle datapath-2.png" />
+<img src="PNGs/LAB_Report_07-Build a single cycle datapath-3.png" />
 
 </details>
 
