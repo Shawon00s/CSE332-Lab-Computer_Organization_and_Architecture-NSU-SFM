@@ -52,6 +52,12 @@ Each logic function is derived using standard Boolean algebra rules. For 2-bit o
 
 ---
 
+## 🖥️ Circuit Diagram
+
+<img src="PNGs/LAB-01_Design of a 2-bit Logic unit.png">
+
+---
+
 ## 🧪 Simulation Result
 
 The simulated circuit successfully performs the intended bitwise logic operations depending on the select line inputs. Each output is verified against expected results.
@@ -91,11 +97,5 @@ The simulated circuit successfully performs the intended bitwise logic operation
 ## ✅ Conclusion
 
 The **2-bit logic unit** was successfully designed and simulated using basic logic gates. The circuit operated as expected for all defined bitwise functions, demonstrating proper control through the select signal. This experiment enhanced understanding of combinational logic and function selection using multiplexing techniques.
-
----
-
-## 🖥️ Circuit Diagram
-
-<img src="PNGs/LAB-01_Design of a 2-bit Logic unit.png">
 
 ---
