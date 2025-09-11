@@ -58,6 +58,12 @@ The lab manual describes the process of building a single-cycle datapath, includ
 
 ---
 
+## 📌 N.B.
+In the lab, we only implemented the **R-type instructions** (e.g., `add`, `sub`, `and`, `or`).  
+The lab report is also based solely on the **R-type datapath implementation**.
+
+---
+
 ## 🖥️ Circuit Diagram
 
 <img src="PNGs/LAB-07_Build a single cycle datapath.png" />
