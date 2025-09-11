@@ -53,6 +53,12 @@ Expected output:
 
 ---
 
+## 🖥️ Circuit Diagram
+
+<img src="PNGs/LAB-03_Design a 3-bit by 3-bit Binary Multiplication Unit.png">
+
+---
+
 ## 🧪 Simulation Result
 
 The simulation confirmed that the 3×3 multiplier produced correct results for all possible input combinations. Partial products and adder combinations were verified step-by-step.
@@ -92,12 +98,6 @@ However, **one of my groupmates mistakenly prepared the lab report using the 4×
 <img src="PNGs/LAB_Report_03-Design a 3-bit by 3-bit Binary Multiplication Unit-5.png">
 
 </details>
-
----
-
-## 🖥️ Circuit Diagram
-
-<img src="PNGs/LAB-03_Design a 3-bit by 3-bit Binary Multiplication Unit.png">
 
 ---
 
