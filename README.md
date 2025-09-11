@@ -1,10 +1,10 @@
-# 🖥️ CSE332 Lab: Computer Organization and Architecture (NSU-SFM)
+# 🖥️ CSE332 Lab: Computer Organization and Architecture
 
 [![Course](https://img.shields.io/badge/Course-CSE332-blue.svg)](https://github.com/Shawon00s/CSE332-Lab-Computer_Organization_and_Architecture-NSU-SFM)
-[![University](https://img.shields.io/badge/University-NSU--SFM-green.svg)](https://nsu.edu.bd/)
+[![University](https://img.shields.io/badge/University-NSU-green.svg)](https://nsu.edu.bd/)
 [![Digital Design](https://img.shields.io/badge/Tool-Logisim-orange.svg)](http://www.cburch.com/logisim/)
 
-This repository contains comprehensive lab materials, circuit designs, and documentation for the **CSE332 Computer Organization and Architecture** course at **North South University (NSU-SFM)**. Each lab focuses on fundamental concepts of digital logic design, computer architecture, and processor design using hands-on circuit simulation.
+This repository contains comprehensive lab materials, circuit designs, and documentation for the **CSE332 Computer Organization and Architecture** course at **North South University**. Each lab focuses on fundamental concepts of digital logic design, computer architecture, and processor design using hands-on circuit simulation.
 
 ---
 
