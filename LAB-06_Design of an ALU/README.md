@@ -109,9 +109,10 @@ The simulation confirmed:
 <details>
 <summary>Click to view handwritten lab report scans</summary>
 
-<img src="PNGs/LAB_Report_06-Design of an ALU-1.png" />  
-<img src="PNGs/LAB_Report_06-Design of an ALU-2.png" />  
-<img src="PNGs/LAB_Report_06-Design of an ALU-3.png" />
+<img src="PNGs/LAB_Report_06-Design of an ALU_page-1.jpg" />
+<img src="PNGs/LAB_Report_06-Design of an ALU_page-2.jpg" />  
+<img src="PNGs/LAB_Report_06-Design of an ALU_page-3.jpg" />  
+<img src="PNGs/LAB_Report_06-Design of an ALU_page-4.jpg" />
 
 </details>
 
