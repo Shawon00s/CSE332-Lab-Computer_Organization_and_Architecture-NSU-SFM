@@ -123,23 +123,49 @@ This repository contains **7 comprehensive laboratory experiments**, each with d
 
 ```
 CSE332-Lab-Computer_Organization_and_Architecture-NSU-SFM/
-├── README.md                                          # This file
+├── README.md
 ├── LAB-01_Design of a 2-bit Logic unit/
-│   ├── README.md                                      # Detailed lab report
-│   ├── LAB-01_Design of a 2-bit Logic unit.circ       # Logisim circuit file
-│   ├── LAB_Manual-01_Design of a 2-bit Logic unit.pdf # Official lab manual
-│   ├── LAB_Report_01-Design of a 2-bit Logic unit.pdf # Student lab report
-│   └── PNGs/                                          # Screenshots and diagrams
+│   ├── README.md
+│   ├── LAB-01_Design of a 2-bit Logic unit.circ
+│   ├── LAB_Manual-01_Design of a 2-bit Logic unit.pdf
+│   ├── LAB_Report_01-Design of a 2-bit Logic unit.pdf
+│   └── PNGs/
 ├── LAB-02_Design of a 2-bit Arithmetic unit/
 │   ├── README.md
 │   ├── LAB-02_Design of a 2-bit Arithmetic unit.circ
 │   ├── LAB_Manual-02_Design of a 2-bit Arithmetic unit.pdf
 │   └── PNGs/
 ├── LAB-03_Design a 3-bit by 3-bit Binary Multiplication Unit/
+│   ├── README.md
+│   ├── LAB-03_Design a 3-bit by 3-bit Binary Multiplication Unit.circ
+│   ├── LAB_Manual-03_Design a 3-bit by 3-bit Binary Multiplication Unit.pdf
+│   ├── LAB_Report_03_Design a 3-bit by 3-bit Binary Multiplication Unit.pdf
+│   └── PNGs/
 ├── LAB-04_Design of a 3-bit Binary Up-Down counter/
+│   ├── README.md
+│   ├── LAB-04_Design of a 3-bit Binary Up-Down counter.circ
+│   ├── LAB_Manual-04_Design of a 3-bit Binary Up-Down counter.pdf
+│   ├── LAB_Report_04_Design of a 3-bit Binary Up-Down counter.pdf
+│   └── PNGs/
 ├── LAB-05_Design of a Register File/
+│   ├── README.md
+│   ├── LAB-05_Design of a Register File.circ
+│   ├── LAB_Manual-05_Design of a Register File.pdf
+│   ├── LAB_Report_05_Design of a Register File.pdf
+│   └── PNGs/
 ├── LAB-06_Design of an ALU/
+│   ├── README.md
+│   ├── LAB-06_Design of an ALU.circ
+│   ├── LAB_Manual-06_Design of an ALU.pdf
+│   ├── LAB_Report_06_Design of an ALU.pdf
+│   └── PNGs/
 └── LAB-07_Build a single cycle datapath/
+    ├── README.md
+    ├── LAB-07_Build a single cycle datapath.circ
+    ├── LAB_Manual-07_Build a single cycle datapath.pdf
+    ├── LAB_Report_07_Build a single cycle datapath.pdf
+    └── PNGs/
+
 ```
 
 **Each lab directory contains:**
@@ -219,9 +245,9 @@ Each lab includes:
 - **Course Code:** CSE332
 - **Course Title:** Computer Organization and Architecture
 - **Institution:** North South University (NSU)
-- **Campus:** SFM (South Campus)
+- **Faculty:** [Dr. Md. Shafiul Alam](https://www.du.ac.bd/faculty/faculty_details/EEE/1168)
 - **Level:** Undergraduate
-- **Prerequisites:** CSE115 (Programming Language I), CSE225 (Data Structures)
+- **Prerequisites:** CSE231 (Digital Logic Design)
 
 ---
 
