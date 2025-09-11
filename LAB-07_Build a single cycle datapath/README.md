@@ -66,7 +66,17 @@ The lab report is also based solely on the **R-type datapath implementation**.
 
 ## 🖥️ Circuit Diagram
 
-<img src="PNGs/LAB-07_Build a single cycle datapath.png" />
+### Register File  →
+<img src="PNGs/LAB-07_Build a single cycle datapath - Register File.png" />
+
+### 16 bit ALU  →
+<img src="PNGs/LAB-07_Build a single cycle datapath - 16 bit ALU.png" />
+
+### Instruction Fetch Unit  →
+<img src="PNGs/LAB-07_Build a single cycle datapath - Instruction Fetch Unit.png" />
+
+### R-Type Datapath  →
+<img src="PNGs/LAB-07_Build a single cycle datapath - R-Type Datapath.png" />
 
 ---
 
